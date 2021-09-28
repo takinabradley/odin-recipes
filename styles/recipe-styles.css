@@ -2,6 +2,24 @@ html {
 	background-color: rgb(246, 246, 246);
 }
 
-h1 {
-	text-align: center;
+img {
+	display: block;
+	margin: 25px auto;
+	width: 1000px;
+	height: auto;
 }
+
+h1, h2, .back, a {
+	text-align: center;
+	color: black
+}
+
+p, ul, ol {
+	font-size: 24px;
+	font-weight: bold;
+}
+
+ul, ol {
+	list-style-type: none;
+}
+
